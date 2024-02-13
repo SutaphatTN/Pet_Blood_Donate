@@ -1,0 +1,74 @@
+.carousel {
+    width:700px;
+    height:400px;
+    margin: auto;
+  }
+  .name{
+      color: white;
+  }
+  h1{
+      color: black;
+  }
+  .kh1{
+    text-align: left ;
+    font-weight: bolder;
+  }
+  .kh2{
+    text-align: left ;
+  }
+  .c1{
+    text-align: left ;
+  }
+  .t1{
+    text-align: left ;
+  }
+  .kh3{
+    text-align: left ;
+    font-weight: bold;
+  }
+  .d1{
+   
+      width: 100%; 
+  }
+  .d2{
+    height: 150px;
+      width: 130px; 
+      margin-left: -500px ;
+      margin-top: auto;
+  }
+  .d3{
+    height: 50px;
+      width: 1540px; 
+      display: block;
+  }
+  .nav{ height: 39px;
+
+  }
+  c1{
+   
+    margin-left: 75vw;
+    margin-top: -53vh;
+    
+}
+
+.kh4{
+  text-align: right;
+}
+.kh5{
+  line-height: 10%;
+  text-align: left;
+  font-size: 12px;
+  color: red;
+}
+.kh8{
+  text-align: right;
+  color: blue;
+}
+.kh10{
+  text-align: right;
+}
+.d7{
+  height: 700px;
+  width: 130px;
+  width: 100%; 
+}
